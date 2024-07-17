@@ -1,4 +1,4 @@
-![logo](https://github.com/AyyarSandesh/AyyarSandesh/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20%20(1).png)
+![logo]([https://github.com/AyyarSandesh/AyyarSandesh/blob/main/Neon%20Modern%20Futuristic%20Simple%20Gaming%20YouTube%20Banner%20%20(1).png](https://github.com/AyyarSandesh/AyyarSandesh/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sandesh Shivaji Ayyar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
